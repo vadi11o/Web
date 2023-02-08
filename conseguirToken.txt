@@ -1,1 +1,1 @@
-curl -H "email:vadilloUPNA@gmail.com password:EMTmadrid1" https://openapi.emtmadrid.es/v1/mobilitylabs/user/login/
+curl -H "email:vadilloUPNA@gmail.com" -H "password:EMTmadrid1" https://openapi.emtmadrid.es/v1/mobilitylabs/user/login/
